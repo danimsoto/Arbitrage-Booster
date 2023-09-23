@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250984800476",
+    "project_id": "arbitragebooster",
+    "storage_bucket": "arbitragebooster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250984800476:android:ffe59672060d05c1da5419",
+        "android_client_info": {
+          "package_name": "com.danmorsot.arbitragebooster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250984800476-8ojcgt48dba64b8plv6dtfmoggsefgjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQFmovTUQEFOVg9F0SQvvSm8i7bfQQ84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250984800476-8ojcgt48dba64b8plv6dtfmoggsefgjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
